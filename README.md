@@ -2,14 +2,6 @@
 
 Projeto criado com as bibliotecas React JS e Material UI.
 
-## Passo-a-passo para execução
+## Atividade Prática Módulo 10
 
-1. Clonar o repositório
-2. Localmente, entrar na pasta do projeto e instalar as dependências:
-   `
-   npm install
-   `
-3. Executar a aplicação:
-   `
-   npm start
-   `
+- Inclusão de um modal para confirmação de exclusão de Tarefas
